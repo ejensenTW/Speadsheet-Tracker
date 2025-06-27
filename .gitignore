@@ -1,0 +1,4 @@
+.env
+message_id.txt
+service_account.json
+.DS_Store
