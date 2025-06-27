@@ -1,0 +1,1 @@
+CapyBoy is a lightweight Python bot that monitors a Google Sheet and posts live, visually formatted updates to a Discord channel. Designed for team coordination (like game settlements or shared inventories), it captures changes and shares them as clean, color-coded table snapshots.
